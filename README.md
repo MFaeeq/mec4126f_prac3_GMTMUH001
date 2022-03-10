@@ -6,7 +6,7 @@ Prac 3
 #include "lcd_stm32f0.c"
 #include <stdio.h>
 #include <math.h>
-// GLOBAL VARIABLES ----------------------------------------------------------|
+
 
 typedef struct age_data
 {
